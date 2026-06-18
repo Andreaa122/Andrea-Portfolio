@@ -333,7 +333,7 @@ const portfolioItems = [
     title: "Lost Portal Game Video",
     description: "Gameplay and interaction preview from the Unity game.",
     type: "video",
-    src: "assets/designs/vr-3d/game developement-lost portal coin/for midterm - start - Windows, Mac, Linux - Unity 2022.3.22f1 _DX11_ 2024-05-28 22-02-49 (1).mp4",
+    src: "assets/designs/vr-3d/game developement-lost portal coin/game.mp4",
   },
   {
     category: "game",
